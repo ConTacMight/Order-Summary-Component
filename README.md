@@ -9,7 +9,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Acknowledgments](#acknowledgments)
 
@@ -28,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/ConTacMight/Order-Summary-Component](https://github.com/ConTacMight/Order-Summary-Component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://contacmight.github.io/Order-Summary-Component/](https://contacmight.github.io/Order-Summary-Component/)
 
 ## My process
 
